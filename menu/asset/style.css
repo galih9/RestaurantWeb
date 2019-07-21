@@ -1,0 +1,126 @@
+body{
+	/*background-image: url(img/bg.jpg);*/
+	background-size: 100%;
+	font-family: calibri;
+	
+}
+body a{
+	text-decoration: none;
+}
+table.stab{
+	margin-left: 30px;
+	margin-right: 10px;
+	background-color: white;
+	border: 3px solid black; 
+}
+table.stab tr th{
+	color: white;
+	background-color: black;
+}
+table.stab tr td{
+	background-color: white;
+}
+.bkonten{
+	width: 90%;
+	padding-bottom: 50px;
+	background-color:rgba(255, 204, 0,0.7);
+	border-radius: 5px;
+	margin-top: 180px;
+	border: 1px solid #ff0000;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.bkonten .bteks{
+	margin-top: 5px;
+	margin-left: 7px;
+}
+.bjudul{
+	font-family: calibri;
+	font-size: 20px;
+	text-align: center;
+}
+.konten{
+	width: 80%;
+	padding-bottom: 50px;
+	background-color:rgba(255, 204, 0,0.7);
+	border-radius: 5px;
+	margin-top: 120px;
+	border: 1px solid #ff0000;
+	margin-left: 20%;
+}
+.konten .teks{
+	margin-top: 5px;
+	margin-left: 7px;
+}
+.judul{
+	font-family: calibri;
+	font-size: 20px;
+	text-align: center;
+}
+.konten .in{
+	margin-top: 5px;
+	margin-left: 12px;
+}
+.in{
+	background-color: rgba(254.67,0,0,0.8);
+	width: 240px;
+	float: left;
+	margin-right: 15px;
+	padding-bottom: 20px;
+	border-radius: 5px;
+	border: 1px solid #ffcc00;
+}
+.in form{
+	margin-left: 3px;
+}
+.isi{
+	/*background-color: orange;*/
+}
+.kirim{
+	width: 70px;
+	height: 30px;
+	margin-top: 10px;
+	color: white;
+	background-color: green;
+	border: 3px solid #ff9000;
+	border-radius: 5px;
+}
+.kirims{
+	width: 70px;
+	height: 30px;
+	margin-top: 10px;
+	color: white;
+	background-color: red;
+	border: 3px solid #ff9000;
+	border-radius: 5px;
+}
+.kirim:hover{
+	background-color: #91E0D8;
+}
+.kirims:hover{
+	background-color: #91E0D8;
+}
+.inteks{
+	width: 150px;
+	height: 20px;
+}
+.isi .cari{
+	/*background-color: red;*/
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.start table tr td{
+	background-color: red;
+	text-align: center;
+
+}
+.start table tr td a{
+	text-decoration: none;
+	color: black;
+}
+.start table tr td:hover{
+	background-color: green;
+}
+.start table{
+	margin-top: 40px;
+}

@@ -1,0 +1,36 @@
+body{
+	background-size: 100%;
+	font-family: calibri;
+}
+.container{
+	width: 220px;
+	height: 320px;
+	border-radius: 5px;
+	background-color: yellow;
+	margin-top: 90px;
+}
+.container .judul{
+	font-weight: bold;
+	font-size: 30px;
+}
+.container p.pesan{
+	font-size: 13px;
+}
+.container input.input{
+	text-align: center;
+	border-radius: 2px;
+	width: 130px;
+	height: 30px;
+	margin-bottom: 20px;
+}
+.container input.tombol{
+	width: 70px;
+	height: 40px;
+}
+.container input.tombol:hover{
+	background-color: cyan;
+}
+.container a{
+	font-size: 11px;
+	text-decoration: none;
+}
